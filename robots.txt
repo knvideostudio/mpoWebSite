@@ -1,0 +1,6 @@
+﻿User-agent: *
+#
+# list specific files robots are not allowed to index
+#
+# Disallow: /directory/foo.html
+# Disallow: /folder2/whatever.html
